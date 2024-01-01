@@ -12,7 +12,7 @@ const orderRoute = require("./Routes/order");
 app.use(
   cors({
     origin: [
-      "localhost:3000",
+      "http://localhost:3000",
       "https://polarized-store.onrender.com",
       "https://polarized-admin.onrender.com",
     ],
