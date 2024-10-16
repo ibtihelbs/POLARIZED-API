@@ -8,7 +8,6 @@ const userRoute = require("./Routes/users");
 const userAuth = require("./Routes/auth");
 const productRoute = require("./Routes/products");
 const orderRoute = require("./Routes/order");
-console.log("hello");
 app.use(
   cors({
     origin: [

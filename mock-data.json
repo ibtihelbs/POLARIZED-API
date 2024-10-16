@@ -4,109 +4,116 @@
     "desc": "Timeless denim jacket for a versatile and rugged look.",
     "img": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8amFja2V0fGVufDB8fDB8fHwy",
     "price": 59.99,
-    "categories": ["Apparel", "Outerwear"],
+    "tags": ["apparel", "outerwear", "denim"],
     "inStock": true,
+    "category": "Outerwear",
     "color": "Blue",
     "size": "M",
-    "rate": 4.5
+    "rate": 4.5,
+    "sales": 30
   },
   {
     "title": "Elegant Leather Handbag",
     "desc": "Luxurious leather handbag for a touch of sophistication.",
     "img": "https://images.unsplash.com/photo-1611312449408-fcece27cdbb7?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8amFja2V0fGVufDB8fDB8fHwy",
     "price": 129.99,
-    "categories": ["Accessories", "Bags"],
+    "tags": ["accessories", "bags", "leather"],
     "inStock": true,
+    "category": "Bags",
     "color": "Black",
     "size": null,
-    "rate": 4.8
+    "rate": 4.8,
+    "sales": 45
   },
   {
     "title": "Stainless Steel Smartwatch",
     "desc": "Sleek and feature-packed smartwatch for the tech-savvy.",
     "img": "https://images.unsplash.com/photo-1465877783223-4eba513e27c6?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fHNob2VzfGVufDB8fDB8fHwy",
     "price": 199.99,
-    "categories": ["Electronics", "Wearables"],
+    "tags": ["electronics", "wearables", "smartwatch"],
     "inStock": true,
+    "category": "Wearables",
     "color": "Silver",
     "size": null,
-    "rate": 4.2
+    "rate": 4.2,
+    "sales": 20
   },
   {
     "title": "Vintage Polaroid Camera",
     "desc": "Capture moments in style with this classic Polaroid camera.",
     "img": "https://images.unsplash.com/photo-1601924638867-3a6de6b7a500?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTN8fHNob2VzfGVufDB8fDB8fHwy",
     "price": 89.99,
-    "categories": ["Electronics", "Cameras"],
+    "tags": ["electronics", "cameras", "photography"],
     "inStock": true,
+    "category": "Cameras",
     "color": "Vintage Red",
     "size": null,
-    "rate": 4.6
+    "rate": 4.6,
+    "sales": 10
   },
   {
     "title": "Handcrafted Leather Boots",
     "desc": "Step out in these artisanal leather boots, crafted for both style and comfort.",
     "img": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmFnfGVufDB8fDB8fHwy",
     "price": 149.99,
-    "categories": ["Footwear", "Boots"],
+    "tags": ["footwear", "boots", "handcrafted"],
     "inStock": true,
+    "category": "Boots",
     "color": "Brown",
     "size": "8",
-    "rate": 4.7
+    "rate": 4.7,
+    "sales": 25
   },
   {
     "title": "Modern Abstract Wall Art",
     "desc": "Transform your space with this bold and contemporary wall art piece.",
     "img": "https://images.unsplash.com/photo-1600857062241-98e5dba7f214?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YmFnfGVufDB8fDB8fHwy",
     "price": 79.99,
-    "categories": ["Home Decor", "Art"],
+    "tags": ["home decor", "art", "abstract"],
     "inStock": true,
+    "category": "Art",
     "color": "Multicolor",
     "size": null,
-    "rate": 4.4
+    "rate": 4.4,
+    "sales": 15
   },
   {
     "title": "Bluetooth Noise-Canceling Headphones",
     "desc": "Immerse yourself in premium sound quality with these wireless headphones.",
     "img": "https://images.unsplash.com/photo-1612902456551-333ac5afa26e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fGJhZ3xlbnwwfHwwfHx8Mg%3D%3D",
     "price": 159.99,
-    "categories": ["Electronics", "Audio"],
+    "tags": ["electronics", "audio", "headphones"],
     "inStock": true,
+    "category": "Audio",
     "color": "Black",
     "size": null,
-    "rate": 4.9
+    "rate": 4.9,
+    "sales": 35
   },
   {
     "title": "Quirky Patterned Socks Set",
     "desc": "Add a touch of fun to your wardrobe with this set of vibrant and quirky socks.",
     "img": "https://images.unsplash.com/photo-1574201635302-388dd92a4c3f?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHVsbHxlbnwwfHwwfHx8Mg%3D%3D",
     "price": 19.99,
-    "categories": ["Apparel", "Socks"],
+    "tags": ["apparel", "socks", "quirky"],
     "inStock": true,
+    "category": "Socks",
     "color": "Assorted",
     "size": "One Size",
-    "rate": 4.3
+    "rate": 4.3,
+    "sales": 5
   },
   {
     "title": "Minimalist Desk Organizer",
     "desc": "Declutter your workspace with this sleek and functional desk organizer.",
     "img": "https://images.unsplash.com/photo-1610071650172-9a511bb2e692?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHB1bGx8ZW58MHx8MHx8fDI%3D",
     "price": 49.99,
-    "categories": ["Office Supplies", "Organization"],
+    "tags": ["office supplies", "organization", "minimalist"],
     "inStock": true,
+    "category": "Organization",
     "color": "White",
     "size": null,
-    "rate": 4.6
-  },
-  {
-    "title": "Graphic Print Hoodie",
-    "desc": "Stay warm and stylish with this cozy hoodie featuring a bold graphic print.",
-    "img": "https://images.unsplash.com/photo-1589523795613-c3fce27eea23?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHBsYW50JTIwcG90fGVufDB8fDB8fHwy",
-    "price": 79.99,
-    "categories": ["Apparel", "Outerwear"],
-    "inStock": true,
-    "color": "Black",
-    "size": "L",
-    "rate": 4.5
+    "rate": 4.6,
+    "sales": 40
   }
 ]
