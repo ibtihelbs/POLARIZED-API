@@ -14,6 +14,7 @@ app.use(
       "http://localhost:3000",
       "https://polarized-store.onrender.com",
       "https://polarized-admin.onrender.com",
+      "http://localhost:5173"
     ],
   })
 );
